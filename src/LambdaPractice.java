@@ -1,6 +1,3 @@
-package com.karthik.springfirst;
-
-import io.micrometer.observation.Observation;
 
 import java.util.ArrayList;
 import java.util.List;
